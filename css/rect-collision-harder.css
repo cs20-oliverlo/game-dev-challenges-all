@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+}
+
+button {
+  border-radius: 5px;
+  border-color: rgb(177, 177, 177);
+  background-color: black;
+  color: white;
+  font-size: large;
+}
+
+button:hover {
+  cursor: pointer;
+  background-color: white;
+  color: black;
+}
